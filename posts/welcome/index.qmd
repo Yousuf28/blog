@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Yousuf Ali"
 date: "2024-05-26"
 categories: [news]
 ---
